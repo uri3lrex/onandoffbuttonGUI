@@ -1,0 +1,1 @@
+The program above basically runs a processing program in a GUI interface. The current program specifically accepts values from the server and sends data in terms of "1" and "0" that correspond to its start/stop state. Through this, the arduino server reads the client's message through a local IP connection and establishes the control of any machine ran by the server
